@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Navin77
-- 👀 I’m interested in web development ethereum development
-- 🌱 I’m currently learning truffle
-
+- 👀 I’m interested in web development, blockchain development
 
 <!---
 Navin77/Navin77 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
